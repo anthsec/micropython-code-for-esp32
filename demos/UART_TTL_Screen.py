@@ -2,7 +2,7 @@
 Description: This is a demo for ESP32 using UART TTL Screen
 Screen Model: TJC4832T135_011N/R/C TJC4832T135_011N/R_Z01
 Screen Wiki: http://wiki.tjc1688.com/doku.php
-Author: Antsec@github
+Author: Anthsec@github
 '''
 
 from machine import UART
